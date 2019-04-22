@@ -2,11 +2,11 @@
 Some ideas for ideal deepnlp framework
 1. Total reproduceability, setting all the seeds by default and from single function
 2. Robust reporting:
-2.1. To stdout
-2.2. To .txt file
-2.3. To Tensorboard
-2.4. To Telegram, Slack, Discord etc.
-2.5. Combined reporting(multiple destinations at once)
+  -  To stdout
+  -  To .txt file
+  -  To Tensorboard
+  -  To Telegram, Slack, Discord etc.
+  -  Combined reporting(multiple destinations at once)
 
 3. No custom file formats, custom data loading, data loading is a developer part
 4. Model-Agnostic interface (Model just have to meet input shape and output shape requirments, specified by task)
