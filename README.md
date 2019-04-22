@@ -11,7 +11,6 @@ Some ideas for ideal deepnlp framework
   -  To Telegram, Slack, Discord etc.
   -  Combined reporting(multiple destinations at once)
 - [ ] Novel lr_scheduling policies(one-cycle, etc)
-
 - [ ] No custom file formats, custom data loading, data loading is a developer part
 - [ ] Model-Agnostic interface (Model just have to meet input shape and output shape requirments, specified by task)
 - [ ] Custom Loss Support
@@ -19,5 +18,7 @@ Some ideas for ideal deepnlp framework
 - [ ] Built-in word-level and char-level embeddings helpers
 - [ ] Pluggable layers of contextual embeddings
 - [ ] All the recent techniques implemented (QRNN, SRU, Attention, Self-Attention, Transformer-Block, Positional-encoding, FP16 fine-tuning)
+-------------------------------------------------------------------------------------------------------------------------------
 - [ ] ~ Quantization
+- [ ] ~ Augmentations
 - [ ] ~ Production-side inference tools(serving, hubs, versioning)
