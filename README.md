@@ -25,4 +25,4 @@ Some ideas for ideal deepnlp framework
 
 ### btw, some finetuned BERT stuff (pytorch-huggingface-format):
 - bert-base-uncased, english news corpora, 128 seq len, 100k training steps: https://storage.googleapis.com/share-bert/tpu-bert-100k-128.tar.gz
-- bert-base-uncased, english news corpora, 512 seq len, 15k training steps: https://storage.googleapis.com/share-bert/tpu-bert-15%D0%BA-512.tar.gz
+- bert-base-uncased, english news corpora, 512 seq len, 15k training steps: https://storage.googleapis.com/share-bert/tpu-bert-15k-512.tar.gz
